@@ -1,10 +1,8 @@
 |Your ✨ _special_ ✨ Readme Snake|
 |---|
 
-|I. By default your ReadMe repository will be located at the URL:|
+|I. By default your ReadMe repository will be located at the URL: https://github.com/{{username}}/{{username}}|
 |---|
-
-https://github.com/{{username}}/{{username}}
 ---
 |II. Go to "Action"|
 |---|
