@@ -1,4 +1,4 @@
-|Your ✨ _special_ ✨ (username/username) repository|
+|Your ✨ _special_ ✨ (username/username) Snake|
 |---|
 
 ### SHORTLY
