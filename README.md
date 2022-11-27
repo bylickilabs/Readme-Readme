@@ -1,6 +1,6 @@
 |Your ✨ _special_ ✨ Readme Snake|
 |---|
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204132572-ec72ece2-370e-4c77-8a16-390da3a22ae0.gif)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 |I. By default your ReadMe repository will be located at the URL: https://github.com/{{username}}/{{username}}|
 |---|
