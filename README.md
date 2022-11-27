@@ -1,4 +1,4 @@
-|Your ✨ _special_ ✨ (username/username) Snake|
+|Your ✨ _special_ ✨ Readme Snake|
 |---|
 
 ### SHORTLY
