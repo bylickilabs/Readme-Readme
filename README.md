@@ -29,7 +29,11 @@
 |---|
 
 [RAW LINK](https://raw.githubusercontent.com/bylickilabs/bylickilabs/main/.github/workflows/main.yml)
-Change the github_user_name: |bylickilabs|
+
+|Change the github_user_name:|
+|---|
+
+|bylickilabs|
 |---|
 to your own GitHub username and commit.
 ---          
