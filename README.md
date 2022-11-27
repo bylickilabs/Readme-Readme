@@ -45,3 +45,9 @@
 - Click on the View runs button, and click on the Run workflow button.
 
 ![4](https://user-images.githubusercontent.com/109308073/204130227-44cec1b6-313d-4e20-8847-7dd0fcabe821.jpg)
+---
+
+### Check For The Generated .SVG on OutPut Branch
+- After this, go to the ReadMe repository, and change the branch from main to output.
+
+![5](https://user-images.githubusercontent.com/109308073/204130442-b85e5bcc-1a63-49ae-ad01-89d1388abc63.jpg)
