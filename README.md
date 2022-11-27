@@ -67,7 +67,7 @@ Saving...
 DONE...
 
 ### Ps.
-- You want your own status badge for your stat snake? No Problem!
+- You want your own Status Badge for your Snake? No Problem!
 
 ![7](https://user-images.githubusercontent.com/109308073/204131409-0a3a8f49-802f-4e22-97ad-4770624fcf42.jpg)
 ![8](https://user-images.githubusercontent.com/109308073/204131419-3474ec4b-ec5c-42b2-a3c9-96ecf841f1d8.jpg)
