@@ -36,5 +36,5 @@
 |bylickilabs|
 |---|
 
-### to your own GitHub username and commit.
+- to your own GitHub username and commit.
 ---          
