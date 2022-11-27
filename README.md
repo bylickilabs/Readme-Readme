@@ -3,12 +3,12 @@
 
 |I. By default your ReadMe repository will be located at the URL: https://github.com/{{username}}/{{username}}|
 |---|
----
+
 |II. Go to "Action"|
 |---|
----
+
 ![1](https://user-images.githubusercontent.com/109308073/204129101-b406238f-270e-4ceb-84cc-71bc65daae71.jpg)
----
+
 |III. Setup the Workflow|
 |---|
 
