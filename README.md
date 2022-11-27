@@ -27,35 +27,5 @@
 
 |V. inside the main.yml file and paste the following code:|
 |---|
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "* */1 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: bylickilabs
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+[HERE](https://raw.githubusercontent.com/bylickilabs/bylickilabs/main/.github/workflows/main.yml)
 ---          
