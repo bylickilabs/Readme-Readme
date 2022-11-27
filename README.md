@@ -17,6 +17,8 @@
 ![2](https://user-images.githubusercontent.com/109308073/204129164-50d49336-40cd-4518-8018-5422afde137c.jpg)
 ---
 
-|IV. Create the main.yml File
+|IV. Create the main.yml File|
+|---|
+
 - It will create a main.yml file:
 ![3](https://user-images.githubusercontent.com/109308073/204129449-979a92aa-2947-47a3-9ee2-e8637a131c00.jpg)
