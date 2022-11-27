@@ -38,3 +38,7 @@
 
 - to your own GitHub username and commit.
 ---          
+
+### Run The Workflow
+- Click on the View runs button, and click on the Run workflow button.
+![4](https://user-images.githubusercontent.com/109308073/204130227-44cec1b6-313d-4e20-8847-7dd0fcabe821.jpg)
