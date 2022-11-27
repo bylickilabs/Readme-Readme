@@ -51,3 +51,5 @@
 - After this, go to the ReadMe repository, and change the branch from main to output.
 
 ![5](https://user-images.githubusercontent.com/109308073/204130442-b85e5bcc-1a63-49ae-ad01-89d1388abc63.jpg)
+- It should show your contribution graph SVG and GIF file.
+
