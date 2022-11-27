@@ -28,5 +28,5 @@
 |V. inside the main.yml file and paste the following code:|
 |---|
 
-[HERE](https://raw.githubusercontent.com/bylickilabs/bylickilabs/main/.github/workflows/main.yml)
+[RAW LINK](https://raw.githubusercontent.com/bylickilabs/bylickilabs/main/.github/workflows/main.yml)
 ---          
